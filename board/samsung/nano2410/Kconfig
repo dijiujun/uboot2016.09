@@ -1,0 +1,15 @@
+if TARGET_NANO2410
+
+config SYS_BOARD
+	default "nano2410"
+
+config SYS_VENDOR
+	default "samsung"
+
+config SYS_SOC
+	default "s3c24x0"
+
+config SYS_CONFIG_NAME
+	default "nano2410"
+
+endif

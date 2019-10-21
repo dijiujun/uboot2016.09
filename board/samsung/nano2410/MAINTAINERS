@@ -1,0 +1,6 @@
+NANO2410 BOARD
+M:	Jiujun Di <dijiujun@163.com>
+S:	Maintained
+F:	board/samsung/nano2410/
+F:	include/configs/nano2410.h
+F:	configs/nano2410_defconfig
